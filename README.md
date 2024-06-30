@@ -1,12 +1,8 @@
-<h1 align="left">Hey Im David👋 What's up?</h1>
+<h1 align="left">Hey Im David 👋 What's up?</h1>
 
 ###
 
-<p align="left">a Web Developer, from Bogotá,Colombia</p>
-
-###
-
-<h2 align="left">About me</h2>
+<p align="left">Web Developer, from Bogotá,Colombia</p>
 
 ###
 
