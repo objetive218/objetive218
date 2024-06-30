@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Web Developer, from Bogotá,Colombia</p>
+<p align="left">Web Developer, from Bogotá , Colombia</p>
 
 ###
 
