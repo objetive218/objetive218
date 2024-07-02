@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning TypeScript</p>
 
 ###
 
