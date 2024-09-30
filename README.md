@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨I’m currently building portfolio-worthy projects </p>
+<p align="left">✨I’m currently building personal projects </p>
 <p align="left">✨ I like working with JavaScript</p>
 <p align="left">✨ I like currently learning TypeScript</p>
 <p align="left">- ⚡ Fun fact: I play guitar,bass and piano</p>
