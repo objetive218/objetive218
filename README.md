@@ -2,11 +2,14 @@
 
 ###
 
-<p align="left">Web Developer, from Bogotá , Colombia</p>
+<p align="left">I am  a FullStack developer, from Bogotá , Colombia</p>
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning TypeScript</p>
+<p align="left">✨I’m currently building portfolio-worthy projects </p>
+<p align="left">✨ I like working with JavaScript</p>
+<p align="left">✨ I like currently learning TypeScript</p>
+<p align="left">- ⚡ Fun fact: I play guitar,bass and piano</p>
 
 ###
 
